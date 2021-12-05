@@ -565,4 +565,3 @@ https://cdn.discordapp.com/icons/849907342580776991/1d4e140db8d1b96d1de915d11d7c
 https://cdn.discordapp.com/icons/758934313499885619/f7e35813a67c97e14d9d2092fde7ef50.webp?size=2048
 https://cdn.discordapp.com/icons/785946297164365895/fb7c5c60897452a5855b4cf2d5dc6310.webp?size=2048
 https://cdn.discordapp.com/icons/758934202388709396/c99b20e64e3e666388fae20697626afa.webp?size=2048
-}
